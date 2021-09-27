@@ -1,0 +1,27 @@
+
+
+
+/* Need to pick colors to contrast bg with fg */
+.blue_space_palette {
+    /* color: ; */
+    color: #97dffc; /* color 1 */
+    color: #858ae3; /* color 2 */
+    color: #613DC1; /* color 3 */
+    color: #4E148C; /* color 4 */
+    color: #2C0735; /* color 5 */
+}
+
+
+
+.green_space_palette {
+    color: #CBF3D2; /* color 1 */
+    color: #B7C0EE; /* color 2 */
+    color: #7067CF; /* color 3 */
+    color: #7B287D; /* color 4 */
+    color: #330C2F; /* color 5 */
+}
+
+.test {
+    color : #FFFF00;
+    color: #FF0000;
+}

@@ -1,0 +1,32 @@
+
+! XTerm.termName: xterm-256color
+Xterm.vt100.locale: true
+Xterm.vt100.metaSendsExcape: true
+XTerm.vt100.saveLines: 4096
+
+XTerm.vt100.faceName: Hack Mono:size=10:antialias=true
+XTerm.vt100.font: Hack
+
+!Theme Nine
+xterm.vt100.background: rgb:1a/1a/1a
+xterm.vt100.foreground: rgb:d6/d6/d6
+xterm.vt100.color0: rgb: 00/00/00
+xterm.vt100.color1: rgb: 9e/18/28
+xterm.vt100.color2: rgb: 00/88/00
+xterm.vt100.color3: rgb: 96/8a/38
+xterm.vt100.color4: rgb: 41/41/71
+xterm.vt100.color5: rgb: 96/3c/59
+xterm.vt100.color6: rgb: 41/81/79
+xterm.vt100.color7: rgb: be/be/be
+xterm.vt100.color8: rgb: 66/66/66
+xterm.vt100.color9: rgb: cf/61/71
+xterm.vt100.color10: rgb: 7c/bc/8c
+xterm.vt100.color11: rgb: ff/f7/96
+xterm.vt100.color12: rgb: 41/86/be
+xterm.vt100.color13: rgb: cf/9ebe
+xterm.vt100.color14: rgb: 71/be/be
+xterm.vt100.color15: rgb: ff/ff/ff
+
+
+
+
